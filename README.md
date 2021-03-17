@@ -1,3 +1,20 @@
+# Getting Started
+## Clone
+```
+git clone git@github.com:cyan-0fbcf9/vue-template.git <project name>
+```
+
+## Delete git directory
+```
+cd <prpject name>
+rm -rf .git
+```
+
+## Setup 
+```
+npm install
+```
+
 # vue-template
 
 ## Project setup
