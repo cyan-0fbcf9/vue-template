@@ -4,10 +4,11 @@
 git clone git@github.com:cyan-0fbcf9/vue-template.git <project name>
 ```
 
-## Delete git directory
+## Delete git directory & Rebuild git
 ```
 cd <prpject name>
 rm -rf .git
+git init
 ```
 
 ## Setup 
